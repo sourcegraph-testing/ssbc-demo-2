@@ -215,7 +215,7 @@ module.exports = exports = {
       },
     ],
     "semi-spacing": [WARN, { before: false, after: true }],
-    semi: [ERROR, "always"],
+    semi: [WARN, "always"],
     "sort-vars": OFF,
     "space-before-blocks": [WARN, "always"],
     "space-before-function-paren": [WARN, "never"],
