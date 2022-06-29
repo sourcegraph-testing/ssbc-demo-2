@@ -1,5 +1,5 @@
-const name = "Jamie Doe";
+const name = 'Jamie Doe';
 
-//Test comment
+// Test comment
 
 let test = 1;
